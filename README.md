@@ -65,10 +65,4 @@ My personal portfolio showcasing my projects and skills.
 
 ---
 
-## 📊 GitHub Stats
-
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanMickael&show_icons=true&theme=dark)
-
----
-
 **Feel free to explore my projects and get in touch if you'd like to collaborate or chat about tech!** 🚀
