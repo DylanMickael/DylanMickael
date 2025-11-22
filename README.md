@@ -2,7 +2,7 @@
 
 Full-stack developer passionate about creating innovative solutions with modern technologies. I love building web applications, exploring AI/ML projects, and crafting interactive 3D experiences.
 
----
+
 
 ## 🎯 About Me
 
@@ -11,7 +11,7 @@ I'm a developer interested in full-stack development, machine learning, and crea
 **Location:** Madagascar  
 **Languages:** Python, JavaScript, TypeScript, C#
 
----
+
 
 ## 💼 Featured Projects
 
@@ -35,7 +35,7 @@ A modern e-commerce platform dedicated to ethical and sustainable fashion in Mad
 My personal portfolio showcasing my projects and skills.  
 **Tech:** JavaScript
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +45,7 @@ My personal portfolio showcasing my projects and skills.
 **Game Development:** C#, Unity  
 **Tools:** Git, GitHub, Vercel
 
----
+
 
 ## 🌟 What I'm Interested In
 
@@ -55,7 +55,7 @@ My personal portfolio showcasing my projects and skills.
 - Game development
 - Sustainable tech solutions
 
----
+
 
 ## 📫 Let's Connect
 
