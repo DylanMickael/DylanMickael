@@ -1,4 +1,4 @@
-# 👋 Dylan Rakotonarivo
+# 👋 Hi, I'm Dylan Rakotonarivo
 **Web Developer | UI/UX Designer | Graphic Designer**  
 Crafting pixel-perfect digital experiences that bridge design and code. Based in Madagascar, building innovative solutions at the intersection of aesthetics and functionality.
 
@@ -13,8 +13,6 @@ I'm a full-stack developer and designer who believes great products require both
 - 🎯 **UI/UX Design** — User-centered design with a focus on conversion and usability
 - 🎨 **Graphic Design** — Visual identity systems, branding, and digital assets
 - 🎮 **Game Development** — 3D design, game mechanics, and interactive experiences
-- 🕹️ **3D Design** — Spatial design and immersive web experiences
-
 ---
 
 ## 💼 Featured Work
