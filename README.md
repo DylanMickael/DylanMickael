@@ -49,9 +49,9 @@ Dimensional viewer bringing 3D experiences directly to the browser.
 | Category | Tools |
 |----------|-------|
 | **Frontend** | JavaScript, TypeScript, React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Python |
-| **Design** | Figma, Adobe Creative Suite |
-| **3D & Gaming** | Three.js, Unity, C#, Blender |
+| **Backend** | Python, Java |
+| **Design** | Figma, Adobe XD, Canva |
+| **3D & Gaming** | Three.js, Unity, C# |
 | **AI/ML** | Python, YOLOv10, Computer Vision |
 | **DevOps** | Git, GitHub, Vercel, Docker |
 
